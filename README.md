@@ -1,7 +1,10 @@
 # pandastutorial
+===========================================
 python and pandas tutorial
+===========================================
 
 outline python:
+========
 1.install Anaconda
 2. ipython and python file
 3.simple code
@@ -11,6 +14,7 @@ outline python:
 7. common function
 
 outline pandas:
+========
 1. series
 2. DataFrame
 3. common functions
