@@ -5,9 +5,9 @@ python and pandas tutorial
 
 outline python:
 ========
-1.install Anaconda
+1. install Anaconda
 2. ipython and python file
-3.simple code
+3. simple code
 4. data structure (string, int, list, set, dict, tuples) 
 5. control(if, for, range)
 6. io(file, database)
