@@ -1,5 +1,5 @@
 # pandastutorial
-python and pandas tutorial[[BR]]
+python and pandas tutorial
 
 outline python:
 1.install Anaconda
