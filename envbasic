@@ -1,0 +1,7 @@
+python分为python2和ｐｙｔｈｏｎ３两个版本，我们统一使用python3.6+的版本
+
+安装python使用anaconda安装包进行安装:
+https://www.anaconda.com/download/
+
+IDE建议使用pycharm Community版本
+https://www.jetbrains.com/pycharm/download/
