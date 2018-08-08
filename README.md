@@ -6,6 +6,7 @@ python and pandas tutorial
 outline python:
 ========
 1. install Anaconda
+https://www.anaconda.com/download/#linux
 2. ipython and python file
 3. simple code
 4. data structure (string, int, list, set, dict, tuples) 
