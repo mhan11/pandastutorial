@@ -5,3 +5,11 @@ https://www.anaconda.com/download/
 
 IDE建议使用pycharm Community版本
 https://www.jetbrains.com/pycharm/download/
+
+学习资料参考
+https://github.com/lijin-THU/notes-python
+不过这个资料是基于python2.7的，有些例子可能运行不起来，需要自己改成python3的语法
+
+模块列表参考
+https://github.com/vinta/awesome-python
+https://github.com/jobbole/awesome-python-cn
